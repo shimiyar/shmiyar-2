@@ -1,0 +1,6 @@
+{
+  "name": "شیمی یار",
+  "description": "اپلیکیشن تخصصی آموزش شیمی دبیرستان و کنکور با جدول تناوبی ۱۱۸ عنصر، فلش‌کارت‌ها و جزوات تحلیلی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
